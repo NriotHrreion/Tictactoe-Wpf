@@ -1,5 +1,7 @@
 # Tictactoe in C#
 
+## `This Repo Has Been Archived`
+
 By NriotHrreion
 
 ## 说明
